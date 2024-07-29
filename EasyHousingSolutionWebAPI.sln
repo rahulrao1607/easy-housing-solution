@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyHousingSolutionWebAPI", "EasyHousingSolutionWebAPI\EasyHousingSolutionWebAPI.csproj", "{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyHousingSolutionMVC", "EasyHousingSolutionMVC\EasyHousingSolutionMVC.csproj", "{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD523BB-AAD6-46DF-90B4-30C6DA841487}
+	EndGlobalSection
+EndGlobal

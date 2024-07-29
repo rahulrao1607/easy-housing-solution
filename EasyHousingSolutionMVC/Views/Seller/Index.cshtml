@@ -1,0 +1,68 @@
+﻿@model IEnumerable<EasyHousingSolutionMVC.Models.Seller>
+
+@{
+    ViewData["Title"] = "Sellers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .table-bordered {
+        border: 1px solid #dee2e6;
+    }
+
+    .table th, .table td {
+        border: 1px solid #dee2e6;
+    }
+</style>
+
+<h3 class="mb-3">Sellers List</h3>
+
+
+<table class="table mt-1 table-bordered">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmailId)
+                </td>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Details", "Seller", new { id = item.SellerId })'" class="btn btn-primary">Details</button>
+                    <button type="button" onclick="location.href='@Url.Action("Delete", "Seller", new { id = item.SellerId })'" class="btn btn-danger">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

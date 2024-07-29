@@ -1,0 +1,147 @@
+﻿@model EasyHousingSolutionMVC.Models.Property
+
+<div class="container">
+
+    <div class="row d-flex">
+
+        <div class="col-5">
+
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+
+                <div class="carousel-inner">
+
+                    <div class="carousel-item active">
+
+                        <img src="/Images/villa1.jpg" style="height:22rem" class="d-block w-100" alt="...">
+
+                    </div>
+
+                    <div class="carousel-item ">
+
+                        <img src="/Images/AdityaVilla.jpg" style="height:22rem" class="d-block w-100" alt="...">
+
+                    </div>
+
+                    <div class="carousel-item">
+
+                        <img src="/Images/KansalVilla.jpg" style="height:22rem" class="d-block w-100" alt="...">
+
+                    </div>
+
+                </div>
+
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+                    <span class="visually-hidden">Previous</span>
+
+                </button>
+
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+                    <span class="visually-hidden">Next</span>
+
+                </button>
+
+            </div>
+
+        </div>
+
+        <div class="col-5 justify-content-center gap-md-5 align-content-center">
+
+            <h2>Contact Details</h2>
+
+            <h5><b>Property Name </b>: @Model.PropertyName</h5>
+
+            <h5><b> Address :</b> @Model.Address</h5>
+
+            <h5><b>Landmark:</b> @Model.Landmark</h5>
+
+            <h5><b>Type :</b> @Model.PropertyType</h5>
+
+            <h5><b> Property Option :</b> @Model.PropertyOption</h5>
+
+            <br />
+            <br />
+            <br />
+
+            <div class="d-flex justify-content-lg-start gap-5">
+                <div>
+                    @{
+                        string priceRangeFormatted;
+                        if (Model.PriceRange >= 10000000) // If price is 1 crore or more
+                        {
+                            priceRangeFormatted = $"{Model.PriceRange / 10000000} crore";
+                        }
+                        else if (Model.PriceRange >= 100000) // If price is 1 lakh or more
+                        {
+                            priceRangeFormatted = $"{Model.PriceRange / 100000} lakh";
+                        }
+                        else // If price is less than 1 lakh
+                        {
+                            priceRangeFormatted = $"{Model.PriceRange}";
+                        }
+                    }
+                    <h5> <b>Price :</b> Rs.@priceRangeFormatted</h5>
+
+                    @{
+                        string initialDepositFormatted;
+                        if (Model.InitialDeposit >= 10000000) // If deposit is 1 crore or more
+                        {
+                            initialDepositFormatted = $"{Model.InitialDeposit / 10000000} crore";
+                        }
+                        else if (Model.InitialDeposit >= 100000) // If deposit is 1 lakh or more
+                        {
+                            initialDepositFormatted = $"{Model.InitialDeposit / 100000} lakh";
+                        }
+                        else // If deposit is less than 1 lakh
+                        {
+                            initialDepositFormatted = $"{Model.InitialDeposit}";
+                        }
+                    }
+                    <h5> <b>Initial Deposit:</b> @initialDepositFormatted</h5>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-2">
+
+            <div style="margin-top: 10px;"></div>
+            <form action="@Url.Action("SellerPropertyEdit", "Property", new { id = Model.PropertyId })" method="get">
+                @* <img src="/Images/Edit_Icon.png" alt="Edit" style="max-height:2rem" /> *@
+                <button type="submit" class="btn btn-primary">Edit</button>
+            </form>
+
+            <!-- Add some space between the buttons -->
+            <div style="margin-top: 10px;"></div>
+
+            @* <form action="@Url.Action("Delete", "Property", new { id = Model.PropertyId })" method="get">
+            <img src="/Images/delete-icon.png" alt="Edit" style="max-height:2rem" />
+            <button type="submit" class="btn btn-danger">Delete</button>
+            </form> *@
+
+            <form action="@Url.Action("SellerPropertyDelete", "Property", new { id = Model.PropertyId })" method="get">
+                <button type="submit" class="btn btn-danger">
+                    @* <img src="/Images/delete1.png" alt="Delete" style="max-height:1rem" /> *@ Delete
+                </button>
+            </form>
+        </div>
+
+
+    </div>
+
+    <div class="justify-content-around w-75">
+
+        <h2>Description</h2>
+
+        <p>@Model.Description</p>
+
+    </div>
+
+    <div class="form-group d-flex justify-content-between">
+        <a asp-action="Index" class="btn btn-primary" role="button">Back to List</a>
+    </div>
+</div>

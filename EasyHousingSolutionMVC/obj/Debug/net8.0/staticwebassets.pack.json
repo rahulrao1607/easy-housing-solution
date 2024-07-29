@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EasyHousingSolutionMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EasyHousingSolutionMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\AdityaVilla.png",
+      "PackagePath": "staticwebassets\\Images\\AdityaVilla.png"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\Checkmark-green-tick.png",
+      "PackagePath": "staticwebassets\\Images\\Checkmark-green-tick.png"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\GargPentHouse.png",
+      "PackagePath": "staticwebassets\\Images\\GargPentHouse.png"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\KansalVilla.png",
+      "PackagePath": "staticwebassets\\Images\\KansalVilla.png"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\Property1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Property1.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\Property2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Property2.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\Property3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Property3.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\Property4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Property4.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\Property5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Property5.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\Property6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Property6.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\affordable.png",
+      "PackagePath": "staticwebassets\\Images\\affordable.png"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\no_brokage.png",
+      "PackagePath": "staticwebassets\\Images\\no_brokage.png"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\red.jpg",
+      "PackagePath": "staticwebassets\\Images\\red.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\shopping-cart 2.png",
+      "PackagePath": "staticwebassets\\Images\\shopping-cart 2.png"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\verified_properties.jpg",
+      "PackagePath": "staticwebassets\\Images\\verified_properties.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\Images\\villa1.jpg",
+      "PackagePath": "staticwebassets\\Images\\villa1.jpg"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EasyHousingSolutionMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EasyHousingSolutionMVC.props",
+      "PackagePath": "build\\EasyHousingSolutionMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EasyHousingSolutionMVC.props",
+      "PackagePath": "buildMultiTargeting\\EasyHousingSolutionMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EasyHousingSolutionMVC.props",
+      "PackagePath": "buildTransitive\\EasyHousingSolutionMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

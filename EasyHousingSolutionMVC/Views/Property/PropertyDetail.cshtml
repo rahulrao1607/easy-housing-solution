@@ -1,0 +1,129 @@
+﻿@model EasyHousingSolutionMVC.Models.Property
+
+<div class="container">
+	<div class="row d-flex justify-content-between">
+		<div class="col-5 mt-3">
+			<img src="/Images/villa1.jpg" style="height:22rem" class="d-block w-100" alt="...">
+		</div>
+
+		<div class="col-5 justify-content-center gap-md-5 ml-2 align-content-center">
+			<h2>Property Details</h2>
+			<div class="mt-3">
+				<p>Property Name: @Model.PropertyName</p>
+				<p>Property Type: @Model.PropertyOption</p>
+				<p>Address: @Model.Address</p>
+				<p>LandMark: @Model.Landmark</p>
+				<p>Seller Id: @Model.SellerId</p>
+				<div class="d-flex justify-content-lg-start gap-5">
+					<div>
+						@{
+							string priceRangeFormatted;
+							if (Model.PriceRange >= 10000000) // If price is 1 crore or more
+							{
+								priceRangeFormatted = $"{Model.PriceRange / 10000000} crore";
+							}
+							else if (Model.PriceRange >= 100000) // If price is 1 lakh or more
+							{
+								priceRangeFormatted = $"{Model.PriceRange / 100000} lakh";
+							}
+							else // If price is less than 1 lakh
+							{
+								priceRangeFormatted = $"{Model.PriceRange}";
+							}
+						}
+						<p>Rs. @priceRangeFormatted</p>
+
+						@{
+							string initialDepositFormatted;
+							if (Model.InitialDeposit >= 10000000) // If deposit is 1 crore or more
+							{
+								initialDepositFormatted = $"{Model.InitialDeposit / 10000000} crore";
+							}
+							else if (Model.InitialDeposit >= 100000) // If deposit is 1 lakh or more
+							{
+								initialDepositFormatted = $"{Model.InitialDeposit / 100000} lakh";
+							}
+							else // If deposit is less than 1 lakh
+							{
+								initialDepositFormatted = $"{Model.InitialDeposit}";
+							}
+						}
+						<p>Initial Deposit: @initialDepositFormatted</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		@if (!Model.IsActive)
+		{
+			<div class="col-2 mt-3">
+				<div class="row d-flex">
+					<form action="@Url.Action("EditStatus", "Property",new{id=Model.PropertyId})" method="get">
+						<button type="submit" class="btn" style="background-color: #0A4275; color:white">Approved</button>
+					</form>
+
+					<form action="@Url.Action("Delete", "Property",new{id=Model.PropertyId})" method="get">
+						<button type="submit" class="btn btn-danger">Delete</button>
+					</form>
+				</div>
+			</div>
+
+
+		}
+
+	</div>
+</div>
+
+<div class="justify-content-around w-75 mt-5">
+	<h2>Description</h2>
+	<p>@Model.Description</p>
+</div>
+<div class="btn" style="color:white">
+	<a asp-action="AdminProperty" role="button" class="btn" style="background-color: #0A4275; color:white">Back to List</a>
+</div>
+
+
+<!-- Modal -->
+@* <div class="modal fade" id="confirmationModal" tabindex="-1" aria-labelledby="confirmationModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="confirmationModalLabel">Confirmation</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+                Are you sure you want to change the status?
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+<button type="button" class="btn btn-primary" id="confirmChangeStatus" >Yes</button>
+</div>
+</div>
+</div>
+</div> *@
+
+
+@* <script>
+    // Handle click event for Change Status button
+    document.getElementById('changeStatusBtn').addEventListener('click', function () {
+        $('#confirmationModal').modal('show'); // Show the modal
+    });
+
+    // Handle click event for Yes button in modal
+    document.getElementById('confirmChangeStatus').addEventListener('click', function () {
+        // Submit the form when Yes is clicked
+        document.querySelector('form').submit();
+    });
+
+    // Handle click event for No button in modal
+    document.querySelector('#confirmationModal .btn-secondary').addEventListener('click', function () {
+        $('#confirmationModal').modal('hide'); // Hide the modal
+    });
+
+    // Handle click event for close icon in modal
+    document.querySelector('#confirmationModal .close').addEventListener('click', function () {
+        $('#confirmationModal').modal('hide'); // Hide the modal
+    });
+</script> *@

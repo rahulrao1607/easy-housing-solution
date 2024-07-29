@@ -1,0 +1,38 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+ 
+ <center>
+	<h3>Welcome Admin</h3>
+	<h2><u><i>You Are <b>Authorized </b>To View All The Detalis Of Below Mentioned Modules</i></u> </h2>
+</center>
+ 
+ 
+ 
+ <div class="row d-flex justify-content-between align-content-center mt-5 mb-5">
+	<div class="col-4 sellerbtn"><button class="btn " style="background-color: #0A4275; color:white" onclick="window.location.href='@Url.Action("Index", "Seller")'">Sellers List</button></div>
+	<div class="col-4 sellerbtn"><button class="btn " style="background-color: #0A4275; color:white" onclick="window.location.href='@Url.Action("Index", "Buyer")'">Buyers List</button></div>
+	<div class="col-4 sellerbtn"><button class="btn " style="background-color: #0A4275; color:white" onclick="window.location.href='@Url.Action("AdminProperty", "Property")'">Properties List</button></div>
+ </divcla>
+ 
+<style>
+		.sellerbtn{
+			text-align:center;
+		}
+	p {
+		border-radius: 400px;
+	}
+ 
+	h2 {
+		color: #0A4275;
+		text-align: center;
+	}
+ 
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+ 
+</style>

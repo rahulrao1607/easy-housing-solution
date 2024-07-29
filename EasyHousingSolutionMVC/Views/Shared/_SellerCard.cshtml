@@ -1,0 +1,58 @@
+﻿@model EasyHousingSolutionMVC.Models.Property
+
+@{
+	// Assuming you have a PriceRange property in your model
+	decimal priceRange = Model.PriceRange;
+
+	// Format the price with comma separators and the Indian Rupee symbol
+	string formattedPrice = priceRange.ToString("C0", new System.Globalization.CultureInfo("en-IN"));
+}
+
+<div class="card mb-4" style="width: 17rem;">
+	<img class="card-img-top" src="/Images/KansalVilla.png" alt="Card image cap">
+	<div class="card-body">
+		<h5 class="card-title">@Model.PropertyName</h5>
+		<h5>Rs. @FormatPrice(Model.PriceRange)</h5>
+		<h6>@Model.Address</h6>
+		<p class="card-text">@Model.Description</p>
+        <div class="d-flex">
+            <h6>Active : @Model.IsActive</h6>
+            @if (Model.IsActive)
+            {
+                <img src="/Images/Checkmark-green-tick.png" style="max-height:1.5rem" />
+            }
+            else
+            {
+                <img src="/Images/red.jpg" style="max-height:1.5rem" />
+            }
+        </div>
+        <a class="btn " style="background-color: #0A4275; color:white" href="@Url.Action("SellerDetails",new{id=Model.PropertyId})">Details</a>
+		@* <a href="#" class="btn btn-primary">Add to Cart</a> *@
+	</div>
+</div>
+
+@functions {
+    string FormatPrice(decimal price)
+    {
+        // Check if price is greater than or equal to 1 crore
+        if (price >= 10000000)
+        {
+            return (price / 10000000).ToString("0") + " crore";
+        }
+        // Check if price is greater than or equal to 1 lakh
+        else if (price >= 100000)
+        {
+            return (price / 100000).ToString("0") + " lakh";
+        }
+        // Check if price is greater than or equal to 1 thousand
+        else if (price >= 1000)
+        {
+            return (price / 1000).ToString("0") + " thousand";
+        }
+        // For prices less than 1000, just return the price itself
+        else
+        {
+            return price.ToString();
+        }
+    }
+}

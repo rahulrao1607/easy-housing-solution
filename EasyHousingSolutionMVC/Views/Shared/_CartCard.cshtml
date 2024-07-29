@@ -1,0 +1,38 @@
+﻿@model EasyHousingSolutionMVC.Models.Property
+
+@{
+	// Assuming you have a PriceRange property in your model
+	decimal priceRange = Model.PriceRange;
+
+	// Format the price with comma separators and the Indian Rupee symbol
+	string formattedPrice = priceRange.ToString("C0", new System.Globalization.CultureInfo("en-IN"));
+}
+
+@if (Model.IsActive)
+{
+	<div class="card mb-4" style="width: 17rem;">
+		<img class="card-img-top" src="/Images/KansalVilla.jpg" alt="Card image cap">
+		<div class="card-body">
+			<h5 class="card-title">@Model.PropertyName</h5>
+			<h5>@formattedPrice</h5>
+			<h6>@Model.Address</h6>
+			<p class="card-text">@Model.Description</p>
+			<div class="d-flex justify-content-around">
+				<a class="btn btn-primary" href="@Url.Action("Details",new{id=Model.PropertyId})">Details</a>
+
+				<form asp-action="AddCart" asp-controller="Buyer">
+					<input type="hidden" name="propId" value="@Model.PropertyId" />
+					<input type="hidden" name="buyerId" value="9" />
+					<input type="submit" value="Add to Wishlist" class="btn btn-primary" />
+
+				</form>
+
+
+			</div>
+
+
+
+		</div>
+	</div>
+}
+has context menu

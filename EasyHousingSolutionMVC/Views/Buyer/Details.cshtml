@@ -1,0 +1,68 @@
+﻿@model EasyHousingSolutionMVC.Models.Buyer
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .table-bordered {
+        border: 1px solid #dee2e6;
+    }
+</style>
+
+<div>
+    <h4 class="mt-3 mb-2">Buyer Details</h4>
+    <table class="table table-bordered">
+        <tr>
+            <th style="width: 50%; border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <td style="width: 50%;">
+                @Html.DisplayFor(model => model.UserName)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.FirstName)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.LastName)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.DateofBirth)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.DateofBirth)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.PhoneNo)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.PhoneNo)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.EmailId)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.EmailId)
+            </td>
+        </tr>
+    </table>
+</div>
+<div>
+    <a asp-action="Index" role="button" class="btn btn-primary">Back to List</a>
+</div>

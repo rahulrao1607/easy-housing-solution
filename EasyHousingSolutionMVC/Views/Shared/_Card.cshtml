@@ -1,0 +1,62 @@
+﻿@model EasyHousingSolutionMVC.Models.Property
+
+
+
+@if (Model.IsActive)
+{
+	<div class="card mb-4" style="width: 17rem;">
+		<img class="card-img-top" src="/Images/KansalVilla.png" alt="Card image cap">
+		<div class="card-body">
+			<h5 class="card-title">@Model.PropertyName</h5>
+			<h5>Rs. @FormatPrice(Model.PriceRange)</h5>
+			<h6>@Model.Address</h6>
+			<p class="card-text">@Model.Description</p>
+			<div class="d-flex justify-content-around">
+				<a class="btn" href="@Url.Action("Details",new{id=Model.PropertyId})" style="background-color: #0A4275; color:white">Details</a>
+				@* <a href="@Url.Action("AddCart","BuyerMVC", new{propId = Model.PropertyId, buyerId=9 })" class="btn btn-primary">Add to Wishlist</a> *@
+				<form asp-action="AddCart" asp-controller="Buyer">
+					<input type="hidden" name="propId" value="@Model.PropertyId" />
+					<input type="hidden" name="buyerId" value="4" />
+					<input type="submit" value="Add to Wishlist" class="btn" style="background-color: #0A4275; color:white" />
+
+
+				</form>
+
+				@* <button type="button" class="btn btn-default">@Html.ActionLink("Add To Wishlist", "Create", "CartMVC",new { propId = Model.PropertyId, buyerId = 9 })</button> *@
+				@* //<a asp-controller="Product" asp-action="GetProductsByCategoryFromAPI" asp-route-id="@item.CategoryId">show Product</a> *@
+
+
+			</div>
+
+
+
+		</div>
+	</div>
+}
+@functions{
+    string FormatPrice(decimal price)
+    {
+        // Check if price is greater than or equal to 1 crore
+        if (price >= 10000000)
+        {
+            return (price / 10000000).ToString("0") + " crore";
+        }
+        // Check if price is greater than or equal to 1 lakh
+        else if (price >= 100000)
+        {
+            return (price / 100000).ToString("0") + " lakh";
+        }
+        // Check if price is greater than or equal to 1 thousand
+        else if (price >= 1000)
+        {
+            return (price / 1000).ToString("0") + " thousand";
+        }
+        // For prices less than 1000, just return the price itself
+        else
+        {
+            return price.ToString();
+        }
+    }
+}
+                 
+    

@@ -1,0 +1,1214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\shared\\_cartcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\shared\\_cartcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\editstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\editstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\cart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\buyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\buyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\buyer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\buyer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\buyer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\buyer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\seller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\seller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\seller\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\seller\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\buyer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\buyer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\citiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\citiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\statesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\statesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\repository\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\repository\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\propertiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\propertiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\models\\easyhousingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\models\\easyhousingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\repository\\irepository\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\repository\\irepository\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\cartsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\cartsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\adminproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\adminproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\seller\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\seller\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\imagesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\imagesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\repository\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\repository\\irepository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\sellerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\sellerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\auth\\signupbuyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\auth\\signupbuyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\shared\\_sellercard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\shared\\_sellercard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\shared\\_admincard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\shared\\_admincard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\propertydetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\propertydetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\sellerpropertydelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\sellerpropertydelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\sellerpropertyedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\sellerpropertyedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\verifyproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\verifyproperty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\sellerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\sellerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\buyer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\buyer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\cartpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\cartpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\models\\cartpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\models\\cartpropertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\property\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\property\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionwebapi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5BC591-F7F2-4B2D-89FA-8414C8B69058}|EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI.csproj|solutionrelative:easyhousingsolutionwebapi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\views\\auth\\signupseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\views\\auth\\signupseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\loginget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\loginget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|c:\\ayush sharma\\c sharp\\easy housing solution sprint project\\easyhousingsolutionwebapi\\easyhousingsolutionmvc\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2FCB79-0B30-4822-9F00-5911C8DA12B5}|EasyHousingSolutionMVC\\EasyHousingSolutionMVC.csproj|solutionrelative:easyhousingsolutionmvc\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Controllers\\BuyerController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Controllers\\BuyerController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAIwKUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:54:18.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Controllers\\SellerController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAmwF4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:05:55.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_CartCard.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_CartCard.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Shared\\_CartCard.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_CartCard.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Shared\\_CartCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T14:46:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\Index.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Index.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:47:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:04:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:42:54.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T14:47:57.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Cart\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Cart\\Delete.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Cart\\Delete.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Cart\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T14:48:45.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Controllers\\PropertyController.cs",
+              "ViewState": "AQIAAIIBAAAAAAAAAAAmwJEBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:42:31.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditStatus.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\EditStatus.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\EditStatus.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\EditStatus.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\EditStatus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:04:54.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Buyer\\Delete.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Delete.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Buyer\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:00:34.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Buyer\\Index.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Index.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Buyer\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T07:56:22.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Details.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Buyer\\Details.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Details.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Buyer\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:59:45.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\Buyer.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Buyer.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\Buyer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAApwCIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:18:06.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Seller\\Details.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Seller\\Details.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Seller\\Details.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Seller\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:09:08.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Seller\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Seller\\Index.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Seller\\Index.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Seller\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:08:16.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T13:16:13.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Startup.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Startup.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Startup.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:51:35.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\Seller.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Seller.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\Seller.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA5wB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:18:49.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T05:40:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T05:39:53.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Create.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Buyer\\Create.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Create.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Buyer\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T06:18:17.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountAPIController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\AccountAPIController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\AccountAPIController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\AccountAPIController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\AccountAPIController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAADwv1MAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:18:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CitiesAPIController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\CitiesAPIController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\CitiesAPIController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\CitiesAPIController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\CitiesAPIController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:18:28.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersAPIController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\UsersAPIController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\UsersAPIController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\UsersAPIController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\UsersAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:18:09.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatesAPIController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\StatesAPIController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\StatesAPIController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\StatesAPIController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\StatesAPIController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:18:11.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\State.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Models\\State.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\State.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Models\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:19:34.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Repository\\PropertyRepository.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\PropertyRepository.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Repository\\PropertyRepository.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAIAwwGIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:29:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PropertiesAPIController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\PropertiesAPIController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\PropertiesAPIController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\PropertiesAPIController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\PropertiesAPIController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAtwFAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:26:49.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EasyHousingDbContext.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\EasyHousingDbContext.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Models\\EasyHousingDbContext.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\EasyHousingDbContext.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Models\\EasyHousingDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:07:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\IRepository\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Repository\\IRepository\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\IRepository\\IPropertyRepository.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Repository\\IRepository\\IPropertyRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:28:09.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Models\\Property.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\Property.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Models\\Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:05:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:48:57.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartsAPIController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\CartsAPIController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\CartsAPIController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\CartsAPIController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\CartsAPIController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAUwJ8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:38:43.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminProperty.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\AdminProperty.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\AdminProperty.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\AdminProperty.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\AdminProperty.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:49:03.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Create.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\Create.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Create.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T14:34:27.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\appsettings.json",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T11:59:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Seller\\Create.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Seller\\Create.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Seller\\Create.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Seller\\Create.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:09:50.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Details.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\Details.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Details.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\Details.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:49:38.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:01:52.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Card.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_Card.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Shared\\_Card.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_Card.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Shared\\_Card.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:04:13.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Startup.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Startup.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Startup.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwD4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:53:40.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ImagesAPIController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\ImagesAPIController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\ImagesAPIController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\ImagesAPIController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\ImagesAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:18:27.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:18:07.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Repository\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:37:04.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\IRepository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Repository\\IRepository\\ICartRepository.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Repository\\IRepository\\ICartRepository.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Repository\\IRepository\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:36:51.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SellerIndex.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerIndex.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\SellerIndex.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerIndex.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\SellerIndex.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:04:11.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\Property.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Property.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\Property.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:18:39.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Program.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Program.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:51:18.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SignupBuyer.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\SignupBuyer.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Auth\\SignupBuyer.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\SignupBuyer.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Auth\\SignupBuyer.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:19:53.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Program.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Program.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:53:00.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\Cart.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Cart.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:18:19.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\Delete.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Delete.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T11:00:08.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_SellerCard.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_SellerCard.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Shared\\_SellerCard.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_SellerCard.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Shared\\_SellerCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T13:47:05.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_AdminCard.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_AdminCard.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Shared\\_AdminCard.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Shared\\_AdminCard.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Shared\\_AdminCard.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvx4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:46:39.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PropertyDetail.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\PropertyDetail.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\PropertyDetail.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\PropertyDetail.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\PropertyDetail.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:57:10.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SellerPropertyDelete.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyDelete.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyDelete.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyDelete.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyDelete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:17:25.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SellerPropertyEdit.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyEdit.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyEdit.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyEdit.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\SellerPropertyEdit.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:14:32.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "VerifyProperty.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\VerifyProperty.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\VerifyProperty.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\VerifyProperty.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\VerifyProperty.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:57:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SellerDetails.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerDetails.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\SellerDetails.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\SellerDetails.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\SellerDetails.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAH0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T13:49:12.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Buyer\\Edit.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Buyer\\Edit.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Buyer\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T14:46:09.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Models\\Buyer.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\Buyer.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Models\\Buyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:41:27.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CartPropertyDTO.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\CartPropertyDTO.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\CartPropertyDTO.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\CartPropertyDTO.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\CartPropertyDTO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:41:54.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CartPropertyDTO.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\CartPropertyDTO.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Models\\CartPropertyDTO.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\CartPropertyDTO.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Models\\CartPropertyDTO.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:37:59.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Property\\Edit.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Property\\Edit.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Property\\Edit.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:56:40.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionWebAPI\\Models\\Seller.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionWebAPI\\Models\\Seller.cs",
+              "RelativeToolTip": "EasyHousingSolutionWebAPI\\Models\\Seller.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:01:46.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SignupSeller.cshtml",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\SignupSeller.cshtml",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Views\\Auth\\SignupSeller.cshtml",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Views\\Auth\\SignupSeller.cshtml",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Views\\Auth\\SignupSeller.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:21:11.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\SignUp.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\SignUp.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\SignUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:24:29.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Program1.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Program1.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Program1.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Program1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:50:17.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\Login.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\Login.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:21:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LoginGet.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\LoginGet.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\LoginGet.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\LoginGet.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\LoginGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:23:24.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\User.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:19:05.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\State.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\State.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\State.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:18:59.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\City.cs",
+              "RelativeDocumentMoniker": "EasyHousingSolutionMVC\\Models\\City.cs",
+              "ToolTip": "C:\\Ayush Sharma\\C Sharp\\Easy Housing Solution Sprint Project\\EasyHousingSolutionWebAPI\\EasyHousingSolutionMVC\\Models\\City.cs",
+              "RelativeToolTip": "EasyHousingSolutionMVC\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:18:27.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

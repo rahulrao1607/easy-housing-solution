@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EasyHousingSolutionMVC
+build_property.RootNamespace = EasyHousingSolutionMVC
+build_property.ProjectDir = C:\Users\RYADAV2\Downloads\Easy Housing Solution Sprint Project (rahul,aditya,divyakant,hritik,yash,akash)\Easy Housing Solution Sprint Project\EasyHousingSolutionWebAPI\EasyHousingSolutionMVC\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\RYADAV2\Downloads\Easy Housing Solution Sprint Project (rahul,aditya,divyakant,hritik,yash,akash)\Easy Housing Solution Sprint Project\EasyHousingSolutionWebAPI\EasyHousingSolutionMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Auth/SignupBuyer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWdudXBCdXllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Auth/SignupSeller.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWdudXBTZWxsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Buyer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5ZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Buyer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5ZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Buyer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5ZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Buyer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5ZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Buyer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Cart/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/AdminProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcQWRtaW5Qcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/EditStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcRWRpdFN0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/PropertyDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcUHJvcGVydHlEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/SellerDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcU2VsbGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/SellerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcU2VsbGVySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/SellerPropertyDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcU2VsbGVyUHJvcGVydHlEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/SellerPropertyEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcU2VsbGVyUHJvcGVydHlFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Property/VerifyProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcVmVyaWZ5UHJvcGVydHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Seller/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Seller/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Seller/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Seller/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Shared/_AdminCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkNhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Shared/_Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Shared/_CartCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJ0Q2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Shared/_SellerCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWxsZXJDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RYADAV2/Downloads/Easy Housing Solution Sprint Project (rahul\,aditya\,divyakant\,hritik\,yash\,akash)/Easy Housing Solution Sprint Project/EasyHousingSolutionWebAPI/EasyHousingSolutionMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zuciqrh1qm

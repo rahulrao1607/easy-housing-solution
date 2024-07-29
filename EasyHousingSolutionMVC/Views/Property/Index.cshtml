@@ -1,0 +1,271 @@
+﻿@model IEnumerable<EasyHousingSolutionMVC.Models.Property>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div>
+	<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<img src="/Images/villa1.jpg" style="height:25rem" class="d-block w-100" alt="...">
+			</div>
+			<div class="carousel-item ">
+				<img src="/Images/AdityaVilla.png" style="height:25rem" class="d-block w-100" alt="...">
+			</div>
+			<div class="carousel-item">
+				<img src="/Images/KansalVilla.png" style="height:25rem" class="d-block w-100" alt="...">
+			</div>
+		</div>
+		<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</button>
+		<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</button>
+	</div>
+	@if (ViewBag.Message != "Seller")
+	{
+		<div class="d-flex justify-content-lg-between m-4">
+			<h3></h3>
+			<div class="dropdown">
+				<button class="btn custom-btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+					Sort By - Price
+				</button>
+				<ul class="dropdown-menu">
+					<li><a class="dropdown-item" method="get" href="@Url.Action("GetPropertyByPriceLowToHigh","Property")">Low to High</a></li>
+					<li><a class="dropdown-item" method="get" href="@Url.Action("GetPropertyByPriceHighToLow","Property")">High to Low</a></li>
+				</ul>
+			</div>
+		</div>
+	}
+	else
+	{
+		<div class="d-flex justify-content-lg-between m-4">
+
+			<h3>Properties</h3>
+
+			<div>
+				<form action="@Url.Action("Create", "Property")" method="get">
+					<button type="submit" class="btn btn-primary"> Add Property</button>
+				</form>
+			</div>
+
+
+		</div>
+	}
+	<div class="container">
+		<div class="row">
+			<div class="col-3">
+				@if (ViewBag.Message == "Seller")
+				{
+					<form action="@Url.Action("GetPropertySellerIdIsActive", "Property")" method="get">
+						<div class="form-check">
+
+							<input class="form-check-input" type="checkbox" name="IsActive" id="IsActive" value="true">
+
+							<label class="form-check-label" for="IsActive">Active</label>
+						</div>
+						<div class="form-check">
+
+							<input class="form-check-input" type="checkbox" name="InActive" id="InActive" value="false">
+
+							<label class="form-check-label" for="InActive">InActive</label>
+
+						</div>
+
+						<button type="submit" class="btn btn-primary">Apply Filter</button>
+
+					</form>
+					
+									}
+				else
+				{
+					<form action="@Url.Action("GetPropertiesByType", "Property")" method="get">
+						<h2>Filter</h2>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" name="propertyType" id="buy" value="sell">
+							<label class="form-check-label" for="buy">Buy</label>
+						</div>
+						<div class="form-check">
+							<input class="form-check-input" type="checkbox" name="propertyType" id="rent" value="rent">
+							<label class="form-check-label" for="rent">Rent</label>
+						</div>
+						<button type="submit" class="btn custom-btn">Apply Filter</button>
+					</form>
+				}
+			</div>
+			<div class="col-9">
+				<div class="row mb justify-content-between">
+					@foreach (var item in Model)
+					{
+						var role = @ViewBag.Message;
+						//if (HttpContext.Session.GetString("Role") == "seller")
+
+
+						if (role == "Seller")
+						{
+							@Html.Partial("_SellerCard", item)
+						}
+						else
+						{
+							@Html.Partial("_Card", item)
+						}
+					}
+				</div>
+			</div>
+			<div class="mt-5 mb-5">
+				<hr class="mt-2 mb-3" />
+				<div class="d-flex justify-content-around">
+					<img src="/Images/verified_properties.jpg" height="200" alt="verified_properties" />
+					<img src="/Images/affordable.png" height="200" alt="affordable" />
+					<img src="/Images/no_brokage.png" height="200" alt="no brokeage" />
+				</div>
+				<hr class="mt-2 mb-3" />
+			</div>
+
+			@* **********************************FAQ CODE *****************************************************@
+			<div class="faq">
+				<h2 class="d-flex justify-content-center">Frequently Asked Questions</h2>
+				<div class="accordion accordion-flush" id="accordionFlushExample">
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="flush-headingOne">
+							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+								New Registration & Login
+							</button>
+						</h2>
+						<div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+							<div class="accordion-body">
+								Yes! Registration on Easy Housing is completely FREE.
+
+								Go to the 'Sign Up' link on the top right of the page.
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="flush-headingTwo">
+							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+								Free Property Listing
+							</button>
+						</h2>
+						<div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+							<div class="accordion-body">
+								Easy Housing offers one FREE listing to owners for posting a property.
+								The Free listing will be visible on the site for Life.
+								Being a FREE Listing, limited responses for the property will be visible in your account.
+								Free listing can be posted from your active account.
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="flush-headingThree">
+							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+								Edit/Update Property Details
+							</button>
+						</h2>
+						<div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+							<div class="accordion-body">
+								Property price/rent amount
+								Property description
+								Update property address or locality
+								Tenant preference
+								Property amenities
+								Change in BHK
+								Transaction Type
+								Property Type
+								Change in Property Listing to 'For Rent/For Sale'
+								Update/Remove Property Name
+							</div>
+						</div>
+					</div>
+					<div class="accordion-item">
+						<h2 class="accordion-header" id="flush-headingFour">
+							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+								Do I need to register to post a property?
+							</button>
+						</h2>
+						<div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+							<div class="accordion-body">
+								Once you post your property, we need your email and mobile no. to send details of inquiries received for your property.
+								Your registration will help us send responses on your email. Hence, it is required to register while posting a property.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<section class="newsletter">
+			<div class="container  m-5">
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="content">
+							<form>
+								<h2>SUBSCRIBE TO OUR NEWSLETTER</h2>
+								<div class="input-group">
+									<input type="email" class="form-control" placeholder="Enter your email">
+									<span class="input-group-btn">
+										<button class="btn custom-btn" type="submit">Subscribe Now</button>
+									</span>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</div>
+
+<style>
+	.newsletter {
+		padding: 80px 0;
+		margin-bottom:70px;
+		background: #f2f2f2;
+	}
+
+		.newsletter .content {
+			max-width: 650px;
+			margin: 0 auto;
+			text-align: center;
+			position: relative;
+			z-index: 2;
+		}
+
+			.newsletter .content h2 {
+				color: #243c4f;
+				margin-bottom: 40px;
+			}
+
+			.newsletter .content .form-control {
+				height: 50px;
+				border-color: #ffffff;
+				border-radius: 0;
+			}
+
+				.newsletter .content.form-control:focus {
+					box-shadow: none;
+					border: 2px solid #243c4f;
+				}
+
+			.newsletter .content .btn {
+				min-height: 50px;
+				border-radius: 0;
+				background: #243c4f;
+				color: #fff;
+				font-weight: 600;
+			}
+
+	.custom-btn {
+		background-color: #0a4275;
+		color: #fff;
+	}
+
+	.faq{
+		margin-top:150px;
+		margin-bottom:100px;
+	}
+</style>

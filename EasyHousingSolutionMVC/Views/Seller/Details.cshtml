@@ -1,0 +1,88 @@
+﻿@model EasyHousingSolutionMVC.Models.Seller
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .table-bordered {
+        border: 1px solid #dee2e6;
+    }
+</style>
+
+
+<div>
+    <h4>Seller Details</h4>
+    <table class="table table-bordered">
+        <tr>
+            <th style="width: 50%; border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.SellerId)
+            </th>
+            <td style="width: 50%;">
+                @Html.DisplayFor(model => model.SellerId)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.FirstName)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.LastName)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.Address)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.PhoneNo)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.PhoneNo)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.EmailId)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.EmailId)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.StateId)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.StateId)
+            </td>
+        </tr>
+        <tr>
+            <th style="border-right: 1px solid #dee2e6;">
+                @Html.DisplayNameFor(model => model.CityId)
+            </th>
+            <td>
+                @Html.DisplayFor(model => model.CityId)
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+
+<div>
+    <a asp-action="Index" role="button" class="btn btn-primary">Back to List</a>
+</div>

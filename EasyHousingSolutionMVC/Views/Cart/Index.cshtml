@@ -1,0 +1,74 @@
+﻿@model IEnumerable<EasyHousingSolutionMVC.Models.CartPropertyDTO>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shopping Cart</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" ">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<link rel="stylesheet" href="../wwwroot/css/CartIndex.css">
+</head>
+
+
+<body>
+	<div class="container">
+		<h2>WishList</h2>
+		<div class="row">
+			<div class="col-sm-12 col-md-10 col-md-offset-1">
+
+				<table class="table table-hover">
+					<thead>
+						@{
+							var bId = (from item in Model
+												select item.BuyerId).Take(1).SingleOrDefault();
+						}
+						<tr>
+							<th>Houses</th>
+							<th>LandMark</th>
+							<th class="text-center">Property Price</th>
+							<th class="text-center">Initial Deposit</th>
+							<th> </th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+
+
+							<tr>
+								<td class="col-sm-8 col-md-6">
+									<div class="media">
+										<a class="thumbnail pull-left" href="#"> <img class="media-object" src="/Images/AdityaVilla.png" style="width: 72px; height: 72px;"> </a>
+										<div class="media-body">
+											<h4 class="media-heading"><a asp-action="Details" asp-controller="Property" asp-route-id="@item.PropertyId">@Html.DisplayFor(modelItem => item.PropertyName)</a></h4>
+										</div>
+									</div>
+								</td>
+
+								<td>
+									@Html.DisplayFor(modelItem => item.Landmark)
+								</td>
+
+								<td class="col-sm-1 col-md-1 text-center"><strong>@Html.DisplayFor(modelItem => item.PriceRange)</strong></td>
+								<td class="col-sm-1 col-md-1 text-center"><strong>@Html.DisplayFor(modelItem => item.InitialDeposit)</strong></td>
+								<td class="col-sm-1 col-md-1">
+
+
+									<button type="button" class="btn btn-danger">@Html.ActionLink("Remove", "Delete", new { id = item.CartId })</button>
+
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+</body>
+
+</html>
+

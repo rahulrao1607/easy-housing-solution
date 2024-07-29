@@ -1,0 +1,65 @@
+﻿@model IEnumerable<EasyHousingSolutionMVC.Models.Buyer>
+
+@{
+    ViewData["Title"] = "Buyers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .table-bordered {
+        border: 1px solid #dee2e6;
+    }
+
+    .table th, .table td {
+        border: 1px solid #dee2e6;
+    }
+
+    .table th {
+        width: 16.67%; /* Six equal-width columns */
+    }
+</style>
+
+<h1>Buyers</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmailId)
+                </td>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Details", "Buyer", new { id = item.BuyerId })'" class="btn btn-primary">Details</button>
+                    <button type="button" onclick="location.href='@Url.Action("Delete", "Buyer", new { id = item.BuyerId })'" class="btn btn-danger">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
